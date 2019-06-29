@@ -5,7 +5,7 @@
 Bikeshare Data
 
 ### Description
-With the bikeshare_2_test.py bikeshare data can be analyzed in 3 different cities.
+With the bikeshare_2_test.py bikeshare data can be analyzed for Chicago, New York City and Washington.
 
 ### Files used
 bikeshare_2_test.py

@@ -5,7 +5,7 @@
 Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+With the bikeshare_2_test.py bikeshare data can be analyzed in 3 different cities.
 
 ### Files used
 Include the files used

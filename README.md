@@ -8,7 +8,7 @@ Bikeshare Data
 With the bikeshare_2_test.py bikeshare data can be analyzed in 3 different cities.
 
 ### Files used
-Include the files used
+bikeshare_2_test.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thanks to Udacity for letting me absorb the knowledge for that was needed to successfully finish this project.
